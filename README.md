@@ -1,6 +1,6 @@
 #REST API in MEAN Stack
 <h2>Introduction</h2>
-<p>Building a REST API using the MEAN stack is piece of cake. Its pretty simple to build up the application.
+<p>Building a REST API using the MEAN stack is a piece of cake. Its pretty simple to build up the application.
 <br/>Follow the below steps and your application will be up and ready in no time.
 </br>(Install Postman API cleint)</p>
 <h2>Download and Installation:</h2>
