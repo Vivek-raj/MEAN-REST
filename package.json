@@ -1,0 +1,22 @@
+{
+  "name": "mean-rest",
+  "version": "1.0.0",
+  "description": "mean rest api",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "vivek",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.3",
+    "chai": "^3.3.0",
+    "chai-http": "^1.0.0",
+    "cookie-parser": "^1.4.0",
+    "debug": "^2.2.0",
+    "express": "^4.13.3",
+    "mocha": "^2.3.2",
+    "mongoose": "^4.1.7",
+    "morgan": "^1.6.1"
+  }
+}
