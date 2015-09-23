@@ -1,6 +1,5 @@
-# MEAN-REST
-REST API using the MEAN stack
-Installation:
+
+#Installation:
 To install downlaod the zip file or use git clone https://github.com/Vivek-raj/MEAN-REST.git
 The application uses seperate databases for development and testing.
 Development commands:
